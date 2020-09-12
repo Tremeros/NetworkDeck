@@ -1,18 +1,19 @@
 NetworkDeck
 
-Prosty serwis społecznościowy wykonany w technologii MERN Stack.
+
+Simple social network app made in MERN technology.
 
 https://polar-forest-71648.herokuapp.com/
 
-Funkcjonalności:
+Funkcjonalities:
 
-- Rejestracja/Logowanie
--Zakładanie i edycja profilu
--Pobieranie listy repozytoriów github
--Dodawanie/usuwanie postów i komentarzy
--Opcja polubień postów
+- Register/Login
+-Profile create and edition
+-fetching github repos list
+-Adding/deleting post and comments
+-Posts likes
 
-Technologie:
+Technologies:
 
 -HTML
 -CSS
